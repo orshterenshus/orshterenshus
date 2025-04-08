@@ -22,6 +22,11 @@
 
 ## 📂 Projects
 
+🎮 Flappy Bird in Python
+A 2D arcade-style game developed using Pygame, featuring sprite-based obstacles, simple
+physics-based movement, and an incremental scoring system. Built to explore core game-
+development concepts such as event handling, collision detection, basic animation, and asset
+management within Python
 
 ---
 
